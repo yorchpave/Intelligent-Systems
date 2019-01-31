@@ -1,6 +1,6 @@
 # 8-puzzle
 
-Implemented BFS to solve the n-puzzle problemThe script prints the results to output.txt
+Implemented BFS to solve the n-puzzle problem. The script prints the results to output.txt
 
 ### Instructions to execute
 ```
