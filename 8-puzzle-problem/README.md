@@ -10,7 +10,7 @@ python bfs.py bfs 7,2,4,5,0,6,8,3,1
 ```
 or
 ```
-python astar.py bfs 7,2,4,5,0,6,8,3,1
+python astar.py ast 7,2,4,5,0,6,8,3,1
 ```
 ### Results with BFS
 ```
