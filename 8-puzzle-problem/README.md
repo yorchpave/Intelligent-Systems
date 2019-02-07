@@ -4,9 +4,9 @@ Implemented BFS to solve the n-puzzle problem. The script prints the results to 
 
 ### Instructions to execute
 
-Make sure you have both python files (driver.py and state.py) saved in the same directory. Then, on the command line execute:
+Make sure you have both python files (bfs.py and state.py) saved in the same directory. Then, on the command line execute:
 ```
-python driver.py bfs 7,2,4,5,0,6,8,3,1
+python bfs.py bfs 7,2,4,5,0,6,8,3,1
 ```
 ### Results
 ```
